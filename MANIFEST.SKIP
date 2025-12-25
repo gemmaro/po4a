@@ -4,7 +4,6 @@
 \.bak$
 ~$
 .weblate
-.appveyor.yml
 \.tidyall.d/
 \.tidyallrc
 \.github/
